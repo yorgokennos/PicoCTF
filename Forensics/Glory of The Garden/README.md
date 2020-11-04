@@ -1,4 +1,4 @@
 Description
 This garden contains more than it seems.
 
-Hint: Strings Challenge
+Hint: What is a hex editor?
