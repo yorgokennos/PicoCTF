@@ -1,5 +1,5 @@
 The numbers
 Point: 50
 
-Category
+Category:
 Cryptography
